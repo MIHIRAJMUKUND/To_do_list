@@ -6,7 +6,7 @@ This project helps users add, view, update, and delete tasks easily — perfect 
 📌 Features
 ➕ Add new tasks
 📃 View all tasks
-✏️ Update/mark tasks as completed
+✏️ Update
 🗑️ Delete tasks
 🧼 Clean and simple menu-driven interface
 
